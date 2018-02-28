@@ -7,10 +7,10 @@ for this repo, to use as a starting point for your story
 .. matt smith ...
 
 
-This is a story with an alternative ending about a girl called Cora who went on a wonderful adventure!
+This is a story about a girl called Cora who went on a wonderful adventure!
 
 Github pages:- 
 https://kenstewart.github.io/year3-story-2018/
 
-**alternate ending story complete**
+**story complete**
 
